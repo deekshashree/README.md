@@ -21,4 +21,7 @@
 
 ## Issues Encountered
 
-No major issues were encountered during the setup process. The installation and configuration of all tools went smoothly.
+
+I did not face any major technical issues during setup. The main learning curve was understanding the GitHub workflow creating a repository, opening it in Cursor, committing changes, and pushing the README.md file successfully.
+
+To solve this, I referred to GitHub and Cursor tutorials and followed the process step by step until the README appeared correctly in the public repository.
